@@ -28,3 +28,46 @@ body {
     font-size: 18px;
     color: #e5E7EB;
 }
+
+.main-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+
+    background-color: #1F2937;
+}
+
+.main-header-text {
+    flex: 1;
+}
+
+.main-header-image {
+    flex: 1;
+}
+
+.main-header-image img{
+    width: 100%;
+    flex: 1;
+}
+
+.main-header-text h1 {
+    font-size: 48px;
+    color: #F9fAf8;
+    font-weight: 900px;
+}
+
+.main-header-text p {
+   font-size: 18px;
+    color: #e5E7EB;
+}
+
+.main-header-text button {
+    background-color: #3882f6;
+    font-size: 18px;
+    color: #e5E7EB;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
