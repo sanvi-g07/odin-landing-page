@@ -187,3 +187,14 @@ body {
 
     cursor: pointer;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.footer p {
+    color: #e5E7EB;
+    text-align: center;
+}
