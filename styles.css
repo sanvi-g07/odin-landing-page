@@ -95,10 +95,18 @@ body {
 
 .info-bit {
     width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .info-bit-img {
     border: 2px solid #3882F6;
+    border-radius: 5px;
     width: 40%;
     aspect-ratio: 1/1;
+}
+
+.info-bit p {
+    text-align: center;
 }
