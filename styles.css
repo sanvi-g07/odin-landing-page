@@ -86,13 +86,15 @@ body {
     text-align: center;
 }
 
-.random-info img {
-    width: 20%;
-}
-
 .info-bits {
     display: flex;
     justify-content: space-around;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.info-bit-img {
+    border: 2px solid #3882F6;
+    width: 40%;
+    aspect-ratio: 1/1;
 }
