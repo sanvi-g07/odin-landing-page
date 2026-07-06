@@ -93,6 +93,10 @@ body {
     margin-right: 15%;
 }
 
+.info-bit {
+    width: 20%;
+}
+
 .info-bit-img {
     border: 2px solid #3882F6;
     width: 40%;
