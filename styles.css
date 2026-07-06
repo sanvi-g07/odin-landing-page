@@ -79,6 +79,10 @@ body {
     padding-right: 20px;
 }
 
+.random-info {
+    padding-bottom: 5%;
+}
+
 .random-info h3 {
     font-size: 36px;
     color: #1F2937;
