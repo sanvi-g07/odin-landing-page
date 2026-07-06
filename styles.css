@@ -111,3 +111,26 @@ body {
 .info-bit p {
     text-align: center;
 }
+
+.big-quote {
+    background-color: #E5E7EB;
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 24px;
+    font-weight: 900;
+}
