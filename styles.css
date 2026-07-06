@@ -67,6 +67,10 @@ body {
     background-color: #3882f6;
     font-size: 18px;
     color: #e5E7EB;
+
+    border: none;
+    border-radius: 7px;
+
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 20px;
